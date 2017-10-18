@@ -1,0 +1,3 @@
+quoteservice:
+  url: http://gturnquist-quoters.cfapps.io/api/random  
+  senderId: CONFIG_SERVER_QuoteServiceMS_SenderID
